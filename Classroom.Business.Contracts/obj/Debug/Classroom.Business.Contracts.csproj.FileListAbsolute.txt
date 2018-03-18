@@ -1,0 +1,8 @@
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\bin\Debug\Classroom.Business.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\bin\Debug\Classroom.Business.Contracts.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\bin\Debug\Classroom.Core.Common.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\bin\Debug\Classroom.Core.Common.Contracts.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\obj\Debug\Classroom.Business.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\obj\Debug\Classroom.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\obj\Debug\Classroom.Business.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Business.Contracts\obj\Debug\Classroom.Business.Contracts.pdb

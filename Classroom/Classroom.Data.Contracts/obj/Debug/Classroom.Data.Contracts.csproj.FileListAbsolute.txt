@@ -1,0 +1,8 @@
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\bin\Debug\Classroom.Data.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\bin\Debug\Classroom.Data.Contracts.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\bin\Debug\Classroom.Data.Entities.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\bin\Debug\Classroom.Data.Entities.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\obj\Debug\Classroom.Data.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\obj\Debug\Classroom.Data.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\obj\Debug\Classroom.Data.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Contracts\obj\Debug\Classroom.Data.Contracts.pdb

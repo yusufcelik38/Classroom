@@ -1,0 +1,8 @@
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\bin\Debug\Classroom.Core.Common.Caching.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\bin\Debug\Classroom.Core.Common.Caching.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\bin\Debug\Classroom.Core.Common.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\bin\Debug\Classroom.Core.Common.Contracts.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\obj\Debug\Classroom.Core.Common.Caching.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\obj\Debug\Classroom.Core.Common.Caching.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\obj\Debug\Classroom.Core.Common.Caching.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Caching\obj\Debug\Classroom.Core.Common.Caching.pdb

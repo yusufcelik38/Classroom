@@ -1,0 +1,9 @@
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\bin\Debug\Classroom.Core.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\bin\Debug\Classroom.Core.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\bin\Debug\Castle.Core.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\bin\Debug\Castle.Windsor.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\bin\Debug\Castle.Windsor.xml
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\obj\Debug\Classroom.Core.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\obj\Debug\Classroom.Core.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\obj\Debug\Classroom.Core.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core\obj\Debug\Classroom.Core.pdb

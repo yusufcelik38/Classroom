@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\bin\Debug\Classroom.Core.Common.Logging.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\bin\Debug\Classroom.Core.Common.Logging.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\bin\Debug\Classroom.Core.Common.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\bin\Debug\log4net.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\bin\Debug\Classroom.Core.Common.Contracts.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\bin\Debug\log4net.xml
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\obj\Debug\Classroom.Core.Common.Logging.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\obj\Debug\Classroom.Core.Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\obj\Debug\Classroom.Core.Common.Logging.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Core.Common.Logging\obj\Debug\Classroom.Core.Common.Logging.pdb

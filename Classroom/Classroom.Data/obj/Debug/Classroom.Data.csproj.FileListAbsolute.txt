@@ -1,0 +1,15 @@
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\Classroom.Data.dll.config
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\Classroom.Data.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\Classroom.Data.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\Classroom.Data.Contracts.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\Classroom.Data.Entities.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\EntityFramework.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\Classroom.Data.Contracts.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\Classroom.Data.Entities.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\EntityFramework.xml
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\obj\Debug\Classroom.Data.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\obj\Debug\Classroom.Data.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\obj\Debug\Classroom.Data.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data\obj\Debug\Classroom.Data.pdb

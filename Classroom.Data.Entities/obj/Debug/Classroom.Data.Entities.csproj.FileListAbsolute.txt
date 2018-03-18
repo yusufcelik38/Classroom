@@ -1,0 +1,6 @@
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Entities\bin\Debug\Classroom.Data.Entities.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Entities\bin\Debug\Classroom.Data.Entities.pdb
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Entities\obj\Debug\Classroom.Data.Entities.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Entities\obj\Debug\Classroom.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Entities\obj\Debug\Classroom.Data.Entities.dll
+C:\Users\yusuf\source\repos\Classroom\Classroom.Data.Entities\obj\Debug\Classroom.Data.Entities.pdb
